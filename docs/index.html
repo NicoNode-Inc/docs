@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <title>NicoNode Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="NicoNode Document">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="assets/css/docsify.min.css">
+  <style>
+  </style>
+</head>
+<body>
+  <div id="app">Loading...</div>
+  <script>
+    window.$docsify = {
+     name: "Document",
+     loadNavbar: 'navbar',
+     loadSidebar: 'sidebar',
+     autoHeader: true,
+     executeScript: true,
+     maxLevel: 5,
+     nameLink: {
+          '/':'/'
+	   },
+     search: {
+      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      paths: 'auto', // or 'auto'
+
+      placeholder: {
+        '/': '搜索'
+      },
+
+      noData: {
+        '/': '无记录'
+      },
+
+      depth: 6
+    },
+    "subMaxLevel":10,
+    ga: 'UA-120439022-1',
+    auto2top: true
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+
+</body>
+</html>
