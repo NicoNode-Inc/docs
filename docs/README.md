@@ -2,10 +2,13 @@
 
 <p class="info">感谢您选用我们的服务，接下来您可能需要花一些时间用于研究我们的文档。</p>
 
-我们的文档将会有Genus Staff不定期进行更新，部分文档可能存在过时的问题。如果可以，您也可以协助我们改善文档的时效性，或使其变得更加通俗易懂。
-您可以通过 GitHub 修改现有版本，并提交 Pull Request，我们会尽快完成审批与更新。
+我们的文档由Genus Staff与开源社区志愿者不定期进行更新，部分文档可能存在过时的问题。
 
-如果某些文档已经严重过时，请您通过[在线提问](https://nico.cafe/u/support/0/0/)或[发送邮件给我们](mailto:customerservice@nico.cafe) 进行反馈。
+您可以协助我们改善文档的准确与时效性，或使其变得更加通俗易懂。
+
+通过 GitHub[[NicoNode/Docs](https://github.com/niconode/docs)] 向我们提交修改版本的 Pull Request，我们会尽快完成审批与更新。
+
+当然，您也可以通过[在线提问](https://nico.cafe/u/support/0/0/)或[发送邮件给我们](mailto:customerservice@nico.cafe) 进行反馈。
 
 ### 请注意
 
