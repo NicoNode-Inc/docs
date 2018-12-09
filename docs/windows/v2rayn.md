@@ -26,21 +26,21 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 1. 打开您的订阅，选择 `订阅列表`。
 
-![配置文件](https://img.niconode.net/20181209144116624696iGTRbtGjofPEvj.png)
+	![配置文件](https://img.niconode.net/20181209144116624696iGTRbtGjofPEvj.png)
 
 2. 找到最右侧 `配置文件/订阅`，复制 `V2Ray 兼容订阅列表` 的链接地址。
 
-![编辑订阅](https://img.niconode.net/2018120914433477364N0ZrRnLHnGJDSuq.png "编辑订阅")
+	![编辑订阅](https://img.niconode.net/2018120914433477364N0ZrRnLHnGJDSuq.png "编辑订阅")
 
 3. 打开 V2RayN 客户端，选择 `订阅` 中的 `订阅设置` 。
 
-![设置订阅地址](https://img.niconode.net/2018120914441597551nmu31FjVvLeAQ9s.png)
+	![设置订阅地址](https://img.niconode.net/2018120914441597551nmu31FjVvLeAQ9s.png)
 
 4. 在 `地址(url)` 中粘贴 `V2Ray 兼容订阅列表` 的链接地址，并 `确认`。
 
 5. 选择 `订阅` 中的 `更新订阅`。
 
-![更新订阅](https://img.niconode.net/2018120914450168769ULsZ2NUFfCjE6dK.png "更新订阅")
+	![更新订阅](https://img.niconode.net/2018120914450168769ULsZ2NUFfCjE6dK.png "更新订阅")
 
 ### 选择服务器
 
