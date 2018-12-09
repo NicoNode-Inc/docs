@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-06-06
+> 该文档最后更新日期: 2018-12-09
 
 <p class="info">我们对本客户端提供「优先」支持</p>
 
@@ -22,31 +22,25 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 	![](https://img.niconode.net/201811070101556923836wVLpgYyFoipZ4.jpg)
 
-### 快速导入
+### 配置订阅
 
-#### 通过链接倒入
+1. 打开您的订阅，选择 `订阅列表`。
 
-- 回到订阅列表，**右键**选择将要添加的线路右侧的 ![](https://img.niconode.net/2018110616132762475fiX1vPnxJp7j6bA.png) 按钮，选择**复制链接地址**。
+![配置文件](https://img.niconode.net/20181209144116624696iGTRbtGjofPEvj.png)
 
-- 选择 V2RayN 客户端中的左上角`服务器`--`从剪切板倒入批量URL`
+2. 找到最右侧 `配置文件/订阅`，复制 `V2Ray 兼容订阅列表` 的链接地址。
 
-> 我们很快会推出批量复制功能，尽情地带
+![编辑订阅](https://img.niconode.net/2018120914433477364N0ZrRnLHnGJDSuq.png "编辑订阅")
 
-#### 手动添加
+3. 打开 V2RayN 客户端，选择 `订阅` 中的 `订阅设置` 。
 
-- 选择订阅中的`订阅列表`，找到需要添加的线路，选择`获取详细的连接信息`
+![设置订阅地址](https://img.niconode.net/2018120914441597551nmu31FjVvLeAQ9s.png)
 
-	![](https://img.niconode.net/2018060611554434584wrF66J5RHF8UoNe.png)
+4. 在 `地址(url)` 中粘贴 `V2Ray 兼容订阅列表` 的链接地址，并 `确认`。
 
-- 显示详细的连接信息，不要关闭窗口。
+5. 选择 `订阅` 中的 `更新订阅`。
 
-	![](https://img.niconode.net/2018110701045014967WLQlUq1cR4IZqbZ.jpg)
-
-- 回到 V2RayN 客户端，点击左上角的`服务器`，并选择`添加[Vmess]服务器`，之后将以上所有连接信息逐个复制，并确保一致。
-
-	![](https://img.niconode.net/2018110701060088290PP0XtMYtLmlvACw.jpg)
-	
-- **请确保底层传输安全中选择了TLS。**
+![更新订阅](https://img.niconode.net/2018120914450168769ULsZ2NUFfCjE6dK.png "更新订阅")
 
 ### 选择服务器
 
@@ -62,9 +56,11 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 	- PAC模式：根据规则匹配
 	- 直连模式：仅开启HTTP代理，不设置系统代理。如果您局域网中的其他设备需要连接时（例如PS4、XBox），您可以开启这个选项，并且在其他设备的WIFI设置之高级设置中，设置您电脑的局域网IP，与HTTP代理端口。
 
-如果您只是用于网页浏览，您可以配置到Chrome浏览器中，更智能以及高效率的处理，相见下一节。
+### Chrome 浏览器拓展设置（可选）
 
-### Chrome 浏览器拓展设置
+<p class="info">以下所有设置为非必要设置，您可根据您的需求进行选择。</p>
+
+如果您只是用于网页浏览，您可以配置到Chrome浏览器中，更智能以及高效率的处理。
 
 > 您需要现在下载这个拓展，[点击下载](https://dl.niconode.net/extensions/SwitchyOmega.crx) 或 [GitHub下载](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.3.21/SwitchyOmega.crx)
 
