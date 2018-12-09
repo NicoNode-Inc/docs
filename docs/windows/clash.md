@@ -22,11 +22,9 @@ Clash 是一个适用于V2Ray的GUI视图化客户端。简单的说，您可以
 
 2. 找到最右侧 `配置文件/订阅`，复制 `Clash Mac/Win` 的链接地址。
 
-	![编辑订阅](https://img.niconode.net/2018120914433477364N0ZrRnLHnGJDSuq.png "编辑订阅")
-
-3. 打开 Clash 客户端，选择 `Profiles`，在底部左侧的`Download remote configuration file (下载远程配置文件)` 中，粘贴  `Clash Mac/Win` 的链接地址，选择 `Download (下载)`。
-
 	![配置订阅](https://img.niconode.net/20181209145419414850WecBXfe9VXYEKn.jpg)
+	
+3. 打开 Clash 客户端，选择 `Profiles`，在底部左侧的`Download remote configuration file (下载远程配置文件)` 中，粘贴  `Clash Mac/Win` 的链接地址，选择 `Download (下载)`。
 
 4. 下载完成后，前往 `General （基本)`，将底部的 `System Proxy (系统代理)` 勾选启用。
 
