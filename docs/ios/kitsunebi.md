@@ -1,7 +1,7 @@
 > 该文档最后更新日期: 2018-12-09
 
 <p class="info">我们对本客户端提供「优先」支持</p>
-<p class="tip">Potatso 是一款付费软件，您需要自行购买后才可使用。</p>
+<p class="tip">Kitsunebi 是一款付费软件，您需要自行购买后才可使用。</p>
 <p class="tip">目前该软件不可在中国大陆区App Store购买。</p>
 
 ## 介绍
