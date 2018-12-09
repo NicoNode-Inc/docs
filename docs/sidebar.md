@@ -28,6 +28,7 @@
     * [Surge 3](/ios/surge3)
     * [Surge 2](/ios/surge2)
   * [Potatso (SS)](/ios/potatso)
+  * [**Quantumult （Vmess)**](/ios/quantumult)
 
 * Android
   * [BifrostV (Vmess/SS)](/android/bifrostv)
