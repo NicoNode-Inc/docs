@@ -2,6 +2,7 @@
   * [开始使用](/quick/start)
   * [支持优先级](/general/support)
   * [流媒体解锁](/general/streaming)
+  * [Telegram/MTProto](/general/mtproto)
 
 * 实例订阅
   * [FAQ常见问题](/general/faq)
