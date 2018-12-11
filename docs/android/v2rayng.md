@@ -1,36 +1,36 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2018-12-11
 
 <p class="info">我们对本客户端提供「优先」支持</p>
 
 ## 简介
-
+0.6.2
 V2RayNG 是一个基于 V2Ray 内核的 Android 应用，它可以创建基于 VMess 的 VPN 连接。
 
 > 如果您在使用中遇到任何问题，请前往社区[发起Issue](https://github.com/shadowsocks/shadowsocks-android/issues)
 ## 下载
 
-版本号: 0.4.5 | 更新日期: 2018-06-07
+版本号: 0.6.2 | 更新日期: 2018-12-01
 
 
 - 通用版
 
-[立即下载](https://dl.niconode.net/client/v2rayng-android/app-universal-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.4.5/app-universal-release.apk)
+[立即下载](https://dl.niconode.net/client/v2rayng-android/app-universal-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.6.2/app-universal-release.apk)
 
 - ARM 64
 
-[立即下载](https://dl.niconode.net/client/v2rayng-android/app-arm64-v8a-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.4.5/app-arm64-v8a-release.apk)
+[立即下载](https://dl.niconode.net/client/v2rayng-android/app-arm64-v8a-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.6.2/app-arm64-v8a-release.apk)
 
 - ARM Eabi
 
-[立即下载](https://dl.niconode.net/client/v2rayng-android/app-armeabi-v7a-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.4.5/app-armeabi-v7a-release.apk)
+[立即下载](https://dl.niconode.net/client/v2rayng-android/app-armeabi-v7a-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.6.2/app-armeabi-v7a-release.apk)
 
 - x86
 
-[立即下载](https://dl.niconode.net/client/v2rayng-android/app-x86-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.4.5/app-x86-release.apk)
+[立即下载](https://dl.niconode.net/client/v2rayng-android/app-x86-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.6.2/app-x86-release.apk)
 
 - x86_64
 
-[立即下载](https://dl.niconode.net/client/v2rayng-android/app-x86_64-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.4.5/app-x86_64-release.apk)
+[立即下载](https://dl.niconode.net/client/v2rayng-android/app-x86_64-release.apk) | [Github下载](https://github.com/2dust/v2rayNG/releases/download/0.6.2/app-x86_64-release.apk)
 
 ## 配置订阅
 
