@@ -34,9 +34,7 @@ V2Ray X是一款社区开源型GUI客户端，用于控制V2Ray-Core 以连接V2
 	![](https://img.niconode.net/2018121105292631458G2g25X4C4Cu4nMV.png)
 
 - 选择 `transport settings`
-
 - 在 `WebSocket` 选项卡里，将详细连接信息中的 `path / 路径` 参数粘贴于此并保存。
-- 
 	![](https://img.niconode.net/20181211053049965273eWId6pQeCOI21L.png)
 
 ### 开启 TLS
