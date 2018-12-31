@@ -10,9 +10,9 @@ Clash 是一个支持V2Ray的GUI视图化客户端。简单的说，您可以不
 
 ### 下载
 
-版本: 1.3.0 | 更新日期: 2018-10-05
+版本: 1.8.1 | 更新日期: 2018-12-22
 
-[立即下载](https://dl.niconode.net/client/V2RayX.app.zip) | [GitHub下载](https://github.com/Cenmrev/V2RayX/releases/download/v1.3.0/V2RayX.app.zip)
+[立即下载](https://dl.niconode.net/client/ClashX.dmg) | [GitHub下载](https://github.com/yichengchen/clashX/releases/download/1.8.1/ClashX.dmg)
 
 ### 安装
 
