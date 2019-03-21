@@ -2,6 +2,6 @@
   * [简体中文(中国)](/)
 
 * NicoNode
-  * [主站](https://niconode.net)
-  * [订阅管理](https://niconode.net/u/manager/0/0/)
-  * [在线提问](https://niconode.net/u/support/0/0/)
+  * [主站](https://niconode.co)
+  * [订阅管理](https://niconode.co/service)
+  * [在线提问](https://niconode.co/cs/ticket/new)
