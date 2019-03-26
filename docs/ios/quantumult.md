@@ -18,19 +18,19 @@ Quantumult是一款优秀的网络代理软件。您可以设置规则，或是�
 
 1. 打开您的订阅，选择 `订阅列表` 中的 `配置文件/订阅`，复制 `Quantumult iOS` 的链接地址。
 
-	![Mobile](https://img.niconode.net/2018120915233773023dqQCNAVX0DEPe3W.jpg)
+	![Mobile](https://img.niconode.co/2018120915233773023dqQCNAVX0DEPe3W.jpg)
 
 2. 打开 `Setting (设置)`，选择 `Favorites (订阅)`。
 
-	![Quan](https://img.niconode.net/2018120915390988194v74tvSTm33P0Kxd.png)
+	![Quan](https://img.niconode.co/2018120915390988194v74tvSTm33P0Kxd.png)
 		
 3. 选择右上角的 `+`，之后选择 `Server (服务器)`。
 
-	![](https://img.niconode.net/2018120915410134962yP979gF7aZeVwxl.jpeg)
+	![](https://img.niconode.co/2018120915410134962yP979gF7aZeVwxl.jpeg)
 	
 4. 在 `URL (链接)` 中粘贴 `Quantumult iOS` 的链接地址。
 
-	![](https://img.niconode.net/2018120915422865336jGZ0CpK2oaOFuyu.jpeg)
+	![](https://img.niconode.co/2018120915422865336jGZ0CpK2oaOFuyu.jpeg)
 	
 5. 先选择右上角的 `保存`。
 
@@ -39,7 +39,7 @@ Quantumult是一款优秀的网络代理软件。您可以设置规则，或是�
 
 - 前往 `Home (主页)` 标签卡
 
-	![](https://img.niconode.net/20181209154414428574VRptei6sadP1LQ.jpg)
+	![](https://img.niconode.co/20181209154414428574VRptei6sadP1LQ.jpg)
 	
 - 将右上角的开关打开
 > 如果询问您：是否允许添加VPN配置文件，请选择允许
@@ -48,14 +48,14 @@ Quantumult是一款优秀的网络代理软件。您可以设置规则，或是�
 
 - 选择夹在标签卡中间的按钮。
 
-	![](https://img.niconode.net/20181209154622477483C7drZgNNx33wa8.png)
+	![](https://img.niconode.co/20181209154622477483C7drZgNNx33wa8.png)
 	
 - 之后选择您想要更换至的线路即可。
 
-	![](https://img.niconode.net/2018120915470342245l2lLLbYSXXYq3Xh.png)
+	![](https://img.niconode.co/2018120915470342245l2lLLbYSXXYq3Xh.png)
 ## 传出模式
 
-- 选择右下角的 ![](https://img.niconode.net/2018120915452147240CGKFJvYCm0MoIdE.png) 按钮：
+- 选择右下角的 ![](https://img.niconode.co/2018120915452147240CGKFJvYCm0MoIdE.png) 按钮：
 	
 	- 全局代理：所有连接均通过代理
 	- 自动分流：根据您规则中的设定进行判断

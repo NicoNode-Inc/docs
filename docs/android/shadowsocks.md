@@ -16,19 +16,19 @@ Shadowsocks for Android 是一个有社区开发者支持并维护的客户端�
 
 - 通用版
 
-[立即下载](https://dl.niconode.net/client/shadowsocks--universal-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks--universal-4.5.7.apk)
+[立即下载](https://dl.niconode.co/client/shadowsocks--universal-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks--universal-4.5.7.apk)
 
 - ARM 64
 
-[立即下载](https://dl.niconode.net/client/shadowsocks-arm64-v8a-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks-arm64-v8a-4.5.7.apk)
+[立即下载](https://dl.niconode.co/client/shadowsocks-arm64-v8a-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks-arm64-v8a-4.5.7.apk)
 
 - ARM Eabi
 
-[立即下载](https://dl.niconode.net/client/shadowsocks-armeabi-v7a-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks-armeabi-v7a-4.5.7.apk)
+[立即下载](https://dl.niconode.co/client/shadowsocks-armeabi-v7a-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks-armeabi-v7a-4.5.7.apk)
 
 - x86
 
-[立即下载](https://dl.niconode.net/client/shadowsocks-x86-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks-x86-4.5.7.apk)
+[立即下载](https://dl.niconode.co/client/shadowsocks-x86-4.5.7.apk) | [Github下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.5.7/shadowsocks-x86-4.5.7.apk)
 
 ## OBFS混淆
 
@@ -41,17 +41,17 @@ OBFS是一个新特性，可以通过获取您设置的域名的页面内容，�
 
 版本号：0.0.5 | 更新日期: 2017-02-15
 
-[立即下载](https://dl.niconode.net/client/obfs-local-nightly-0.0.5.apk) | [Github下载](https://github.com/shadowsocks/simple-obfs-android/releases/download/v0.0.5/obfs-local-nightly-0.0.5.apk)
+[立即下载](https://dl.niconode.co/client/obfs-local-nightly-0.0.5.apk) | [Github下载](https://github.com/shadowsocks/simple-obfs-android/releases/download/v0.0.5/obfs-local-nightly-0.0.5.apk)
 
 ## 快速设置
 
 - 打开我的订阅，在您要添加的线路最右侧。
 
-	![](https://img.niconode.net/20180607131846753022wGBpcsjD5HQZt0.png)
+	![](https://img.niconode.co/20180607131846753022wGBpcsjD5HQZt0.png)
 
 - 点击链接按钮后，将会唤醒您的客户端。
 
-	![](https://img.niconode.net/2016061520152049836Xqr3W1kMaVBOHXt.jpg)
+	![](https://img.niconode.co/2016061520152049836Xqr3W1kMaVBOHXt.jpg)
 
 - 选择`确定`后，您的客户端将会多出可用的线路。
 
@@ -65,7 +65,7 @@ OBFS是一个新特性，可以通过获取您设置的域名的页面内容，�
 
 - 选择右下角的纸飞机按钮，以连接服务。
 
-	![](https://img.niconode.net/2017072404094460187mtA4Q105YqBAgIO.png)
+	![](https://img.niconode.co/2017072404094460187mtA4Q105YqBAgIO.png)
 
 ## 后台锁定策略
 
@@ -77,13 +77,13 @@ Shadowsocks将会调用系统的VPN接口与App进行数据交互，在部分定
 
 - 点击右上角的选项菜单，选择`锁定应用程式`。
 
-![](https://img.niconode.net/2018060813400552811NC1X3BEE8v7DCpI.jpg)
+![](https://img.niconode.co/2018060813400552811NC1X3BEE8v7DCpI.jpg)
 
 - 锁定后，点击完成。
 
 - 打开`系统设置`--`设备维护`--`电池`--`未监控的应用程序`，手动添加`Shadowsocks`。
 
-![](https://img.niconode.net/20180608134130825189RFUoYOQi9ECr42.jpg)
+![](https://img.niconode.co/20180608134130825189RFUoYOQi9ECr42.jpg)
 
 ### MIUI 9.0
 
@@ -91,8 +91,8 @@ Shadowsocks将会调用系统的VPN接口与App进行数据交互，在部分定
 
 - 按住Shadowsocks程序往下拉。
 
-![](https://img.niconode.net/2018060813424349869C16XPuu3EhTlJSu.jpg)
+![](https://img.niconode.co/2018060813424349869C16XPuu3EhTlJSu.jpg)
 
 - 点击上锁。
 
-![](https://img.niconode.net/2018060813431591887UvqaOqDMrvYEJjt.jpg)
+![](https://img.niconode.co/2018060813431591887UvqaOqDMrvYEJjt.jpg)

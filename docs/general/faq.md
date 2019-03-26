@@ -33,4 +33,4 @@
 
 - 周期性订阅会在您订阅中，`账单信息` 中的 `流量重置日`，根据您预设的时区显示重置日期。
 
-![](https://img.niconode.net/2017122411393622506vCyEWfNifshPe7j.png)
+![](https://img.niconode.co/2017122411393622506vCyEWfNifshPe7j.png)

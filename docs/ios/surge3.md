@@ -23,29 +23,29 @@ Surge 是一个第三方网络工具，除了可以兼任代理，还可以抓�
 
 - 打开您的订阅，选择`订阅列表`中的`配置文件/订阅`，`Surge`。
 
-	![get config](https://img.niconode.net/20180510130405634787VSj10Ubmx7q5Eq.png)
+	![get config](https://img.niconode.co/20180510130405634787VSj10Ubmx7q5Eq.png)
 
 - 长按复制链接地址。
 
 - 选择 `Default` 旁边的倒三角 `▽`
 
-	![dashboard](https://img.niconode.net/2018060613413257291VrdhakGqOSKtiat.jpg)
+	![dashboard](https://img.niconode.co/2018060613413257291VrdhakGqOSKtiat.jpg)
 
 - 点击`从 URL 下载配置`，在文本框中，连按2次，选择`粘贴`将配置文件的链接填入。
 
-	![](https://img.niconode.net/2018060712495550659nRwfZ5YrGsUuhiY.png)
+	![](https://img.niconode.co/2018060712495550659nRwfZ5YrGsUuhiY.png)
 
 - 填写完成后，选择好的，将会多出一个配置文件。
 
-	![](https://img.niconode.net/2018060712435326419uoTGWyNcPSnHLm2.png)
+	![](https://img.niconode.co/2018060712435326419uoTGWyNcPSnHLm2.png)
 
 - 点击右上角`完成`，选择底部的`策略组`。
 
-	![](https://img.niconode.net/2018060712481487158X2dNAzaKP97bIm7.png)
+	![](https://img.niconode.co/2018060712481487158X2dNAzaKP97bIm7.png)
 
 - 选择使用的线路，点击底部`首页`。
 
-	![dashboard](https://img.niconode.net/2018060712491982094B7t9W8UZSNN5d7Q.png)
+	![dashboard](https://img.niconode.co/2018060712491982094B7t9W8UZSNN5d7Q.png)
 
 - 确保您的`出站模式`为`规则模式`后，选择右上角的`启动`。
 

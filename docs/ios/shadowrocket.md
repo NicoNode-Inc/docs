@@ -25,16 +25,16 @@ ShadowRocket 在最早通过内置浏览器让未越狱的设备使用 SS 协议
 
 1. 打开您的订阅，选择 `订阅列表` 中的 `配置文件/订阅`，复制 `V2Ray 兼容订阅列表` 的链接地址。
 
-	![Mobile](https://img.niconode.net/2018120915233773023dqQCNAVX0DEPe3W.jpg)
+	![Mobile](https://img.niconode.co/2018120915233773023dqQCNAVX0DEPe3W.jpg)
 
 2. 选择右上角的 `+`
 
-	![Dashboard](https://img.niconode.net/2018120915254271194wVXRZQBnhnQUnHk.png)
+	![Dashboard](https://img.niconode.co/2018120915254271194wVXRZQBnhnQUnHk.png)
 	
 3. 其中 `Type (类型)` 选择 `Subscribe (订阅)`。
 4. 在 `URL (链接)` 中粘贴 `V2Ray 兼容订阅列表` 的链接地址。
 
-	![](https://img.niconode.net/2018120915261138474Q4KQ5jo6fUGsIEw.png)
+	![](https://img.niconode.co/2018120915261138474Q4KQ5jo6fUGsIEw.png)
 	
 5. 选择右上角的 `Done (完成)`。
 
@@ -44,16 +44,16 @@ ShadowRocket 在最早通过内置浏览器让未越狱的设备使用 SS 协议
 
 - 打开`订阅列表`
 
-	![list](https://img.niconode.net/2017121405200728910Z3YPmfhe44OJWYF.png)
+	![list](https://img.niconode.co/2017121405200728910Z3YPmfhe44OJWYF.png)
 	
-- 需要逐个点击 ![](https://img.niconode.net/2018110616132762475fiX1vPnxJp7j6bA.png) 按钮。
+- 需要逐个点击 ![](https://img.niconode.co/2018110616132762475fiX1vPnxJp7j6bA.png) 按钮。
 
 ## 选择节点
 
-请点击刚刚添加的节点，直至前方有![point](https://img.niconode.net/20170724042043124931wLojyMbQdEq7k8.png)选中状态。
+请点击刚刚添加的节点，直至前方有![point](https://img.niconode.co/20170724042043124931wLojyMbQdEq7k8.png)选中状态。
 
 ## 开始连接
 
-![enable](https://img.niconode.net/2017072404212755518xpGw8CDAzTqNlt4.png)
+![enable](https://img.niconode.co/2017072404212755518xpGw8CDAzTqNlt4.png)
 
 > 如果询问您：是否允许添加VPN配置文件，请选择允许
