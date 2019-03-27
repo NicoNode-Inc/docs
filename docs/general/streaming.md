@@ -1,11 +1,11 @@
-> 该文档最后更新日期: 2018-06-06
+> 该文档最后更新日期: 2019-03-27
 
 ![Netflix](https://nico.cafe/img/netflix.png) 
-![Netflix](https://nico.cafe/img/hulu.png)
-![Netflix](https://nico.cafe/img/bbc.png) 
-![Netflix](https://nico.cafe/img/tvb.png)
-![Netflix](https://nico.cafe/img/youtube.png)
-![Netflix](https://nico.cafe/img/dmm.png)
+![Hulu](https://nico.cafe/img/hulu.png)
+![BBC](https://nico.cafe/img/bbc.png) 
+![TVB](https://nico.cafe/img/tvb.png)
+![Youtube](https://nico.cafe/img/youtube.png)
+![DMM](https://nico.cafe/img/dmm.png)
 
 我们的服务可解锁以上流媒体网站。
 

@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2019-03-27
 
 <p class="info">我们对本客户端提供「优先」支持</p>
 <p class="tip">Kitsunebi 是一款付费软件，您需要自行购买后才可使用。</p>
@@ -12,15 +12,13 @@ Kitsunebi是一款优秀的网络代理软件。您可以设置规则，或是�
 
 ## 获取
 
-> 由于目前已经从App Store中移除，您可能只能透过 TestFlight 获取客户端。
-> 
-> 详细请见[[通过 TestFlight 获取客户端]](/ios/testflight)
+[App Store $4.99](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
 
 ## 配置订阅
 
-1. 打开您的订阅，选择 `订阅列表` 中的 `配置文件/订阅`，复制 `V2Ray 兼容订阅列表` 的链接地址。
+1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.0)` 开始的行列，点击最右边的链接复制。
 
-	![Mobile](https://img.niconode.co/2018120915233773023dqQCNAVX0DEPe3W.jpg)
+	![配置文件](https://img.niconode.co/2019032708355416032uJiiVv5gK5MB3BV.png)
 
 2. 选择右上角的 `+`
 

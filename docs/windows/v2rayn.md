@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2019-03-27
 
 <p class="info">我们对本客户端提供「优先」支持</p>
 
@@ -10,9 +10,9 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 ### 下载
 
-版本:2.17 | 更新日期: 2018-10-11
+版本:2.24 | 更新日期: 2019-03-12
 
-[立即下载](https://dl.niconode.co/client/v2rayN-Core.zip) | [GitHub下载](https://github.com/2dust/v2rayN/releases/download/2.17/v2rayN-Core.zip)
+[立即下载](https://dl.niconode.co/client/v2rayN-Core.zip) | [GitHub下载](https://github.com/2dust/v2rayN/releases/download/2.24/v2rayN-Core.zip)
 
 ### 运行
 
@@ -24,21 +24,17 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 ### 配置订阅
 
-1. 打开您的订阅，选择 `订阅列表`。
+1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.0)` 开始的行列，点击最右边的链接复制。
 
-	![配置文件](https://img.niconode.co/20181209144116624696iGTRbtGjofPEvj.png)
+	![配置文件](https://img.niconode.co/2019032708355416032uJiiVv5gK5MB3BV.png)
 
-2. 找到最右侧 `配置文件/订阅`，复制 `V2Ray 兼容订阅列表` 的链接地址。
-
-	![编辑订阅](https://img.niconode.co/2018120914433477364N0ZrRnLHnGJDSuq.png "编辑订阅")
-
-3. 打开 V2RayN 客户端，选择 `订阅` 中的 `订阅设置` 。
+2. 打开 V2RayN 客户端，选择 `订阅` 中的 `订阅设置` 。
 
 	![设置订阅地址](https://img.niconode.co/2018120914441597551nmu31FjVvLeAQ9s.png)
 
-4. 在 `地址(url)` 中粘贴 `V2Ray 兼容订阅列表` 的链接地址，并 `确认`。
+3. 在 `地址(url)` 中粘贴 `V2Ray 兼容订阅列表` 的链接地址，并 `确认`。
 
-5. 选择 `订阅` 中的 `更新订阅`。
+4. 选择 `订阅` 中的 `更新订阅`。
 
 	![更新订阅](https://img.niconode.co/2018120914450168769ULsZ2NUFfCjE6dK.png "更新订阅")
 

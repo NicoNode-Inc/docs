@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-11-06
+> 该文档最后更新日期: 2019-03-27
 
 <p class="info">我们对本客户端提供「一般」支持</p>
 
@@ -20,9 +20,9 @@ Surge 是使用 iOS 中 Network Extension API 最早的的应用程序之一。
 
 ### 快速导入
 
-- 打开您的订阅，选择`订阅列表`中的`配置文件/订阅`，`Surge`。
+- 选择订阅中的`客户端订阅`，选择以`(API v1.0)`开始的行列中，点击最右侧的链接进行复制，并在浏览器中打开。
 
-	![get config](https://img.niconode.co/20180510130405634787VSj10Ubmx7q5Eq.png)
+	![get config](https://img.niconode.co/2019032708440913774kotavvMFE2b2deV.png)
 
 - 长按复制链接地址。
 

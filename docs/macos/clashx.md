@@ -1,6 +1,6 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2019-03-27
 
-<p class="info">我们对本客户端提供「优先」支持</p>
+<p class="info">我们对本客户端提供「一般」支持</p>
 
 ### 介绍
 
@@ -10,9 +10,9 @@ Clash 是一个支持V2Ray的GUI视图化客户端。简单的说，您可以不
 
 ### 下载
 
-版本: 1.8.4 | 更新日期: 2019-01-18
+版本: 1.9.6 | 更新日期: 2019-03-01
 
-[立即下载](https://dl.niconode.co/client/ClashX.dmg) | [GitHub下载](https://github.com/yichengchen/clashX/releases/download/1.8.4/ClashX.dmg)
+[立即下载](https://dl.niconode.co/client/ClashX.dmg) | [GitHub下载](https://github.com/yichengchen/clashX/releases/download/1.9.6/ClashX.dmg)
 
 ### 安装
 
@@ -20,9 +20,9 @@ Clash 是一个支持V2Ray的GUI视图化客户端。简单的说，您可以不
 
 ### 配置订阅
 
-1. 打开您的订阅，选择 `订阅列表`。
+1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.2)` 开始的行列，点击最右边的链接复制。
 
-	![配置文件](https://img.niconode.co/20181209144116624696iGTRbtGjofPEvj.png)
+	![配置订阅](https://img.niconode.co/2019032708301910942SJ1XCgEkvGQfa7k.png)
 
 2. 找到顶栏，选择Clash客户端，依次找到 `Config (配置)` 中的 `Remote Config (远程配置)` 中的 `Set Url (设置链接)`。
 

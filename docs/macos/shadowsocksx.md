@@ -1,6 +1,6 @@
-> 该文档最后更新日期: 2018-06-07
+> 该文档最后更新日期: 2019-03-27
 
-<p class="info">我们对本客户端提供「一般」支持</p>
+<p class="info">我们对本客户端提供「兼容」支持</p>
 
 ### 介绍
 
@@ -16,9 +16,9 @@ ShadowsocksX是一个开源免费的客户端解决方案，能够兼容AEAD特�
 
 ### 快速设置
 
-- 打开您的订阅，选择`订阅列表`中的`配置文件/订阅`，`SS Mac`。
+- 选择订阅中的`客户端订阅`，选择以`(API v1.1)`开始的行列中，最右侧的`下载配置文件`。
 
-	![get conf](https://img.niconode.co/2018051012550457473XK04squS75PwEyK.png)
+	![get conf](https://img.niconode.co/2019032708413130854hhMKNwk9RWnsVip.png)
 
 - 等待浏览器下载完成后，点击任务栏中的客户端图标，选择`服务器(Server)`，`导入Json文件(Import Bunch Json File)`
 

@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2019-03-27
 
 <p class="info">我们对本客户端提供「优先」支持</p>
 
@@ -10,23 +10,19 @@ Clash 是一个适用于V2Ray的GUI视图化客户端。简单的说，您可以
 
 ### 下载
 
-版本: 0.5.4 | 更新日期: 2018-12-07
+版本: 0.5.30 | 更新日期: 2019-03-19
 
-[立即下载](https://dl.niconode.co/client/Clash.for.Windows.Setup.0.5.4.exe) | [GitHub下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.4/Clash.for.Windows.Setup.0.5.4.exe)
+[立即下载](https://dl.niconode.co/client/Clash.for.Windows.Setup.0.5.30.exe) | [GitHub下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.30/Clash.for.Windows.Setup.0.5.30.exe)
 
 ### 配置订阅
 
-1. 打开您的订阅，选择 `订阅列表`。
+1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.2)` 开始的行列，点击最右边的链接复制。
 
-	![配置文件](https://img.niconode.co/20181209144116624696iGTRbtGjofPEvj.png)
-
-2. 找到最右侧 `配置文件/订阅`，复制 `Clash Mac/Win` 的链接地址。
-
-	![配置订阅](https://img.niconode.co/20181209145419414850WecBXfe9VXYEKn.jpg)
+	![配置订阅](https://img.niconode.co/2019032708301910942SJ1XCgEkvGQfa7k.png)
 	
-3. 打开 Clash 客户端，选择 `Profiles`，在底部左侧的`Download remote configuration file (下载远程配置文件)` 中，粘贴  `Clash Mac/Win` 的链接地址，选择 `Download (下载)`。
+2. 打开 Clash 客户端，选择 `Profiles`，在底部左侧的`Download remote configuration file (下载远程配置文件)` 中，粘贴  `Clash Mac/Win` 的链接地址，选择 `Download (下载)`。
 
-4. 下载完成后，前往 `General （基本)`，将底部的 `System Proxy (系统代理)` 勾选启用。
+3. 下载完成后，前往 `General （基本)`，将底部的 `System Proxy (系统代理)` 勾选启用。
 
 	![启用系统代理](https://img.niconode.co/2018120914564660326t4l6LI22NGL0lEw.jpg)
 

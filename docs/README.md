@@ -1,14 +1,14 @@
-> 最后更新日期: 2018-06-08
+> 最后更新日期: 2019-03-27
 
 <p class="info">感谢您选用我们的服务，接下来您可能需要花一些时间用于研究我们的文档。</p>
 
-我们的文档由Genus Staff与开源社区志愿者不定期进行更新，部分文档可能存在过时的问题。
+我们的文档由工作人员与开源社区志愿者不定期进行更新，部分文档可能存在过时的问题。
 
 您可以协助我们改善文档的准确与时效性，或使其变得更加通俗易懂。
 
 通过 GitHub[[NicoNode/Docs](https://github.com/niconode/docs)] 向我们提交修改版本的 Pull Request，我们会尽快完成审批与更新。
 
-当然，您也可以通过[在线提问](https://nico.cafe/u/support/0/0/)或[发送邮件给我们](mailto:customerservice@nico.cafe) 进行反馈。
+当然，您也可以通过[在线提问](https://niconode.co/cs/ticket/new)或[发送邮件给我们](mailto:customerservice@nico.cafe) 进行反馈。
 
 ### 请注意
 

@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2019-03-27
 
 <p class="info">我们对本客户端提供「一般」支持</p>
 <p class="tip">Quantumult 是一款付费软件，您需要自行购买后才可使用。</p>
@@ -16,9 +16,9 @@ Quantumult是一款优秀的网络代理软件。您可以设置规则，或是�
 
 ## 配置订阅
 
-1. 打开您的订阅，选择 `订阅列表` 中的 `配置文件/订阅`，复制 `Quantumult iOS` 的链接地址。
+1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.1)` 开始的行列，点击最右边的链接复制。
 
-	![Mobile](https://img.niconode.co/2018120915233773023dqQCNAVX0DEPe3W.jpg)
+	![配置文件](https://img.niconode.co/2019032708491254625ZagvDe8cGAtz87p.png)
 
 2. 打开 `Setting (设置)`，选择 `Favorites (订阅)`。
 

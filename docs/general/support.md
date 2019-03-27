@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-12-09
+> 该文档最后更新日期: 2019-03-27
 
 目前有大量的软件兼容NICO所使用的协议，我们没有办法为所有客户端提供支持文档。
 
@@ -13,29 +13,31 @@
 - 兼容 - 可以连接至我们的服务，但不兼容我们的大部分特性，但仍有一部分客户选择。
 
 
-### SS协议
-
-|客户端|操作系统|优先级别|
-|---|---|---|
-|NClient|Windows|优先|
-|Shadowsocks C#|Windows|优先|
-|SSTap|Windows|兼容|
-|Surge|macOS|优先|
-|ShadowsocksX NG|macOS|优先|
-|Surge 2/3|iOS|一般|
-|Shadowrocket|iOS|优先|
-|Potatso|iOS|兼容|
-|Shadowsocks|Android|一般|
-
-### Vmess协议
+### V2ray Vmess协议
 
 |客户端|操作系统|优先级别|
 |---|---|---|
 |Clash|Windows|优先|Vmess|
-|V2RayN|Windows|一般|Vmess|
+|V2RayN|Windows|优先|Vmess|
 |ClashX|macOS|优先|Vmess|
 |V2RayX|macOS|一般|Vmess|
 |Kitsunebi|iOS|优先|
 |Shadowrocket|iOS|优先|
 |V2Ray NG|Android|优先|
 |BifrostV|Android|一般|
+
+
+### SS协议
+
+> 自 2019-06-01 起，我们将停止所有订阅转换至 SS 协议。
+
+|客户端|操作系统|优先级别|
+|---|---|---|
+|Shadowsocks C#|Windows|一般|
+|SSTap|Windows|兼容|
+|Surge|macOS|一般|
+|ShadowsocksX NG|macOS|兼容|
+|Surge 2/3|iOS|一般|
+|Shadowrocket|iOS|优先|
+|Potatso|iOS|兼容|
+|Shadowsocks|Android|一般|

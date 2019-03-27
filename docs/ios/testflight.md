@@ -13,7 +13,7 @@ TestFlight能有效的帮助开发者进行追踪与测试。
 
 ## 目前可以通过TestFlight获取的客户端
 
-- [Kitsunebi](https://testflight.apple.com/join/2w6EF67u) 兼容V2Ray/SS协议
+- ~[Kitsunebi](https://testflight.apple.com/join/2w6EF67u) 兼容V2Ray/SS协议~ 已结束
 - [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) 兼容SS协议
 - [Pharos Pro](https://testflight.apple.com/join/3i6uBkB4) 兼容SS协议
 - [Loon](https://testflight.apple.com/join/23LA2tmX)  兼容SS协议

@@ -1,6 +1,6 @@
-> 该文档最后更新日期: 2018-06-06
+> 该文档最后更新日期: 2019-03-27
 
-<p class="info">我们对本客户端提供「优先」支持</p>
+<p class="info">我们对本客户端提供「一般」支持</p>
 
 ### 介绍
 
@@ -18,9 +18,9 @@ Shadowsocks C# 是一个开源的客户端。
 
 - 先运行一次`Shadowsocks.exe`，然后退出。
 
-- 选择订阅中的`订阅列表`，选择`配置文件/订阅`中的，`SS Windows`。
+- 选择订阅中的`客户端订阅`，选择以`(API v1.2)`开始的行列中，最右侧的`下载配置文件`。
 
-	![快速添加](https://img.niconode.co/20180510125433517224K1AgQopgdVQXT0.png)
+	![快速添加](https://img.niconode.co/2019032708335041052c9auReqSdObI8bS.png)
 
 - 您的浏览器将会下载一个`gui-config.json`，覆盖至`Shadowsocks.exe`的所在目录。
 
