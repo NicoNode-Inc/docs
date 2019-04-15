@@ -6,6 +6,7 @@
 
 * 实例订阅
   * [FAQ常见问题](/general/faq)
+  * [V2Ray常见问题](/general/v2ray)
   * [多协议支持](/feature/protocols)
   * [其他特性](/feature/others)
 
