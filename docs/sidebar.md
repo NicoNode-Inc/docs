@@ -15,6 +15,7 @@
   * [V2RayN (Vmess)](/windows/v2rayn)
   * [NClient (SS)](/windows/nclient)
   * [Shadowsocks C# (SS)](/windows/shadowsocks)	
+  * [针对游戏特别设置](/windows/sstap) 
 
 * macOS
   * [**ClashX (Vmess)** **推荐*](/macos/clashx) 
