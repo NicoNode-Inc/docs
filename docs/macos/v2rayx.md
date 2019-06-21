@@ -1,4 +1,4 @@
-> 该文档最后更新日期: 2018-11-04
+> 该文档最后更新日期: 2019-06-20
 
 <p class="info">我们对本客户端提供「优先」支持</p>
 
@@ -10,9 +10,9 @@ V2Ray X是一款社区开源型GUI客户端，用于控制V2Ray-Core 以连接V2
 
 ## 下载
 
-版本号：1.2.0 | 更新日期: 2018-06-06
+版本号：1.5.1 | 更新日期: 2019-02-13
 
-[立即下载](https://dl.niconode.co/client/V2RayX.app.zip) | [Github下载](https://github.com/Cenmrev/V2RayX/releases/download/v1.2.0/V2RayX.app.zip)
+[立即下载](https://dl.niconode.co/client/V2RayX.app.zip) | [Github下载](https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip)
 
 ## 手动添加
 
@@ -27,15 +27,6 @@ V2Ray X是一款社区开源型GUI客户端，用于控制V2Ray-Core 以连接V2
 - 根据连接信息中，一个一个复制粘贴，确保信息一致。
 
 	![](https://img.niconode.co/2018060614095842623BQEtYFVODoM0Dxc.png)
-	
-### 开启WebSocket
-
-- 在右下角的 `Network / 网络` 中选择 `WebSocket`。
-	![](https://img.niconode.co/2018121105292631458G2g25X4C4Cu4nMV.png)
-
-- 选择 `transport settings`
-- 在 `WebSocket` 选项卡里，将详细连接信息中的 `path / 路径` 参数粘贴于此并保存。
-	![](https://img.niconode.co/20181211053049965273eWId6pQeCOI21L.png)
 
 ### 开启 TLS
 
