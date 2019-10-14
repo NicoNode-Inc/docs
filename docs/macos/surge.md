@@ -20,24 +20,24 @@ Surge 是一个第三方网络工具，除了可以兼任代理，还可以抓�
 
 - 选择订阅中的`客户端订阅`，选择以`(API v1.0)`开始的行列中，点击最右侧的链接进行复制，并在浏览器中打开。
 
-	![get config](https://img.niconode.co/2019032708440913774kotavvMFE2b2deV.png)
+	![get config](https://img.niconode.xyz/2019032708440913774kotavvMFE2b2deV.png)
 
 - 等待浏览器下载完成.conf配置文件。
 
 - 点击任务栏中的 Surge 托盘，选择`配置..`。
 
-![Surge](https://img.niconode.co/2018060612395620670uSefVbzSa0pbOZj.png)
+![Surge](https://img.niconode.xyz/2018060612395620670uSefVbzSa0pbOZj.png)
 
 - 找到 `配置式(Profile)` ，点击 `导入(Import)`。
 
-![Import](https://img.niconode.co/2018051013034497712Viuzrwb4CxCNdhK.png)
+![Import](https://img.niconode.xyz/2018051013034497712Viuzrwb4CxCNdhK.png)
 
 - 将刚刚下载的配置文件，拖动到选择窗口，双击刚刚添加的配置文件，选择 `保存与应用(Save & Apply)`。
 
 ### 切换模式与节点
 
 
-![Surge](https://img.niconode.co/2018060612395620670uSefVbzSa0pbOZj.png)
+![Surge](https://img.niconode.xyz/2018060612395620670uSefVbzSa0pbOZj.png)
 
 - 点击任务栏中的 Surge 托盘，选择`出站模式`：
 	- 直接连接 - 关闭代理，直接访问所有网站

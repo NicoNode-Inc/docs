@@ -8,7 +8,7 @@
 
 通过 GitHub[[NicoNode/Docs](https://github.com/niconode/docs)] 向我们提交修改版本的 Pull Request，我们会尽快完成审批与更新。
 
-当然，您也可以通过[在线提问](https://niconode.co/cs/ticket/new)或[发送邮件给我们](mailto:customerservice@nico.cafe) 进行反馈。
+当然，您也可以通过[在线提问](https://niconode.xyz/cs/ticket/new)或[发送邮件给我们](mailto:customerservice@nico.cafe) 进行反馈。
 
 ### 请注意
 

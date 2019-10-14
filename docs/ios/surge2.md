@@ -22,15 +22,15 @@ Surge 是使用 iOS 中 Network Extension API 最早的的应用程序之一。
 
 - 选择订阅中的`客户端订阅`，选择以`(API v1.0)`开始的行列中，点击最右侧的链接进行复制，并在浏览器中打开。
 
-	![get config](https://img.niconode.co/2019032708440913774kotavvMFE2b2deV.png)
+	![get config](https://img.niconode.xyz/2019032708440913774kotavvMFE2b2deV.png)
 
 - 长按复制链接地址。
 
-	![](https://img.niconode.co/2018060613513125543f2bvljLuxmFNqVz.jpg)
+	![](https://img.niconode.xyz/2018060613513125543f2bvljLuxmFNqVz.jpg)
 
 - 选择底部`配置`，并选择`从 URL 下载配置`，在文本框中，连按2次，选择`粘贴`将配置文件的链接填入。
 
-	![url](https://img.niconode.co/2018060613441557113vtkWGHUJpuGJ5Q6.jpg)
+	![url](https://img.niconode.xyz/2018060613441557113vtkWGHUJpuGJ5Q6.jpg)
 
 - 填写完成后，选择好的，将会多出一个配置文件。
 

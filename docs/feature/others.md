@@ -36,7 +36,7 @@ TCP 快速打开（英语：TCP Fast Open，简称TFO）是对计算机网络中
 
 <p class="tip">目前该特性已经停止支持</p>
 
-![OBFS](https://img.niconode.co/2017022820450731639XCYQBvnKbeiUv3o.png)
+![OBFS](https://img.niconode.xyz/2017022820450731639XCYQBvnKbeiUv3o.png)
 
 - 介绍
 

@@ -18,7 +18,7 @@ NClient 是由NICO团队为Windows用户推出的一键客户端，您无需进�
 
 版本: 2.1.1 | 更新日期: 2017-12-22
 
-[立即下载](https://dl.niconode.co/client/NClient-2.1.1-installer.exe)
+[立即下载](https://dl.niconode.xyz/client/NClient-2.1.1-installer.exe)
 
 ### 权限与组件
 
@@ -32,15 +32,15 @@ NClient 是由NICO团队为Windows用户推出的一键客户端，您无需进�
 
 - 打开订阅中的`LinkCode`，点击磁贴进行创建。
 	
-![Tab](https://img.niconode.co/2017122114464923237uJ5qmAcjVMUYmAt.png)
+![Tab](https://img.niconode.xyz/2017122114464923237uJ5qmAcjVMUYmAt.png)
 
 - 输入一个用于辨识您计算机的命名，以及需要设置的线路节点。
 
-	![选择](https://img.niconode.co/2017122114504295981PndmUvBEa8BsMCG.png)
+	![选择](https://img.niconode.xyz/2017122114504295981PndmUvBEa8BsMCG.png)
 
 - 一切就绪之后，您将得到一串随机生成的代码。
 
-	![LinkCode](https://img.niconode.co/2017122114511496933z9v6sMweETFBMXM.png)
+	![LinkCode](https://img.niconode.xyz/2017122114511496933z9v6sMweETFBMXM.png)
 
 > LinkCode只会显示一次，<br/>
 > 若意外丢失，您可以直接重新创建一个新的LinkCode，并移除旧的LinkCode。

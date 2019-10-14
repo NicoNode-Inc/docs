@@ -22,25 +22,25 @@
 
 - 打开`订阅列表`
 
-	![list](https://img.niconode.co/2017121405200728910Z3YPmfhe44OJWYF.png)
+	![list](https://img.niconode.xyz/2017121405200728910Z3YPmfhe44OJWYF.png)
 
-- 选择 ![qrbtn](https://img.niconode.co/2017072404162624824muXgrOT6L797d6g.png) 按钮获取二维码，同时按 `音量减(下)` + `Home` 截图。
+- 选择 ![qrbtn](https://img.niconode.xyz/2017072404162624824muXgrOT6L797d6g.png) 按钮获取二维码，同时按 `音量减(下)` + `Home` 截图。
 
 	- iPhone X用户，同时按`电源`+`音量加(上)`进行截图。
 
 - 打开 Potatso（本文以Lite版本演示），选择右上角的`+`
 
-	![app](https://img.niconode.co/2017072404291383631488rlMI9K7cuP6Y.png)
+	![app](https://img.niconode.xyz/2017072404291383631488rlMI9K7cuP6Y.png)
 
-	- 选择 ![](https://img.niconode.co/2017072404295527034SWXOvp30IUEmTch.png)。
+	- 选择 ![](https://img.niconode.xyz/2017072404295527034SWXOvp30IUEmTch.png)。
 	- 完成后，选择✔️
 
 ## 开始连接
 
-![enable](https://img.niconode.co/2017072404320542749eJNTltBaPmaF9C5.png)
+![enable](https://img.niconode.xyz/2017072404320542749eJNTltBaPmaF9C5.png)
 
 如果您是第一次使用，将会询问您：
 
-![](https://img.niconode.co/2017072404323774234Sm4dfS7z8fMxFGW.png)
+![](https://img.niconode.xyz/2017072404323774234Sm4dfS7z8fMxFGW.png)
 
 > 如果询问您：是否允许添加VPN配置文件，请选择允许

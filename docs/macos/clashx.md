@@ -12,7 +12,7 @@ Clash 是一个支持V2Ray的GUI视图化客户端。简单的说，您可以不
 
 版本: 1.9.6 | 更新日期: 2019-03-01
 
-[立即下载](https://dl.niconode.co/client/ClashX.dmg) | [GitHub下载](https://github.com/yichengchen/clashX/releases/download/1.9.6/ClashX.dmg)
+[立即下载](https://dl.niconode.xyz/client/ClashX.dmg) | [GitHub下载](https://github.com/yichengchen/clashX/releases/download/1.9.6/ClashX.dmg)
 
 ### 安装
 
@@ -22,19 +22,19 @@ Clash 是一个支持V2Ray的GUI视图化客户端。简单的说，您可以不
 
 1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.2)` 开始的行列，点击最右边的链接复制。
 
-	![配置订阅](https://img.niconode.co/2019032708301910942SJ1XCgEkvGQfa7k.png)
+	![配置订阅](https://img.niconode.xyz/2019032708301910942SJ1XCgEkvGQfa7k.png)
 
 2. 找到顶栏，选择Clash客户端，依次找到 `Config (配置)` 中的 `Remote Config (远程配置)` 中的 `Set Url (设置链接)`。
 
-	![](https://img.niconode.co/2018120915075663242TqfvpiBCHzFMVCY.png)
+	![](https://img.niconode.xyz/2018120915075663242TqfvpiBCHzFMVCY.png)
 
 3. 粘贴  `Clash Mac/Win` 的链接地址，选择 `OK`。
 
-	![](https://img.niconode.co/2018120915092579224dMuf6VhbPIHhxni.png)
+	![](https://img.niconode.xyz/2018120915092579224dMuf6VhbPIHhxni.png)
 
 4. 依次找到 `Config (配置)` 中的 `Remote Config (远程配置)` 中的 `Update (更新)`。
 
-	![](https://img.niconode.co/2018120915075663242TqfvpiBCHzFMVCY.png)
+	![](https://img.niconode.xyz/2018120915075663242TqfvpiBCHzFMVCY.png)
 	
 5. 点击 `Set as system proxy (设为系统代理)` 并确保勾选。
 

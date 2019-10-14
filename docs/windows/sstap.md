@@ -12,7 +12,7 @@ SSTap 可以通过创建一个虚拟网卡，之后将所有的流量根据规�
 
 版本: 1.1.0.1
 
-[立即下载](https://dl.niconode.co/client/SSTap-beta-setup-1.1.0.1.exe.7z) | [Dropbox 下载](https://www.dropbox.com/s/zx10ytbs5vx19w9/SSTap-beta-setup-1.1.0.1.exe.7z?dl=1)
+[立即下载](https://dl.niconode.xyz/client/SSTap-beta-setup-1.1.0.1.exe.7z) | [Dropbox 下载](https://www.dropbox.com/s/zx10ytbs5vx19w9/SSTap-beta-setup-1.1.0.1.exe.7z?dl=1)
 
 ### 我为什么需要这个？
 
@@ -44,33 +44,33 @@ SSTap 可以通过创建一个虚拟网卡，之后将所有的流量根据规�
 
 #### 获取 Clash 客户端的本地代理端口
 
-![](https://img.niconode.co/2019051518071452337lajFaxbajmBqXV2.png)
+![](https://img.niconode.xyz/2019051518071452337lajFaxbajmBqXV2.png)
 
 如图，Port 为 HTTP 代理端口，而 Socks Port 为 Socks5 协议端口。
 
 #### 获取 V2RayN 客户端的本地代理端口
 
-![](https://img.niconode.co/20190515180833771016sTP51izycN8OQZ.png)
+![](https://img.niconode.xyz/20190515180833771016sTP51izycN8OQZ.png)
 
 打开客户端的 `参数设置`
 
-![](https://img.niconode.co/2019051518085110378ATHpfI9056Ir6PA.png)
+![](https://img.niconode.xyz/2019051518085110378ATHpfI9056Ir6PA.png)
 
 如图，本地监听端口为 Socks5 协议端口。
 
 #### 设置 SSTap
 
-![](https://img.niconode.co/20190515180948318695zOfXX9txBQDExe.png)
+![](https://img.niconode.xyz/20190515180948318695zOfXX9txBQDExe.png)
 
 如图，点击添加按钮。
 
-![](https://img.niconode.co/2019051518103056143J6W7cfdT90NME2U.png)
+![](https://img.niconode.xyz/2019051518103056143J6W7cfdT90NME2U.png)
 
 之后，选择 `添加一个HTTP代理` ，或者 `添加一个Socks5代理`。
 
 > 我们通常建议您添加 Socks5 代理。
 
-![](https://img.niconode.co/2019051518112072394IKU3J94x3QH6lN9.png)
+![](https://img.niconode.xyz/2019051518112072394IKU3J94x3QH6lN9.png)
 
 > 参考上图，
 >
@@ -82,7 +82,7 @@ SSTap 可以通过创建一个虚拟网卡，之后将所有的流量根据规�
 
 #### 测试连接
 
-![](https://img.niconode.co/2019051518140431020PTondwqUbhvW3tB.png)
+![](https://img.niconode.xyz/2019051518140431020PTondwqUbhvW3tB.png)
 
 在一切设置完成之后，您可以点击最右侧的小按钮测试连接。
 
@@ -90,11 +90,11 @@ SSTap 可以通过创建一个虚拟网卡，之后将所有的流量根据规�
 
 #### 如果 `代理` 中没有您的游戏？
 
-![](https://img.niconode.co/2019051518154766530rkIdlRBXBNLbncU.png)
+![](https://img.niconode.xyz/2019051518154766530rkIdlRBXBNLbncU.png)
 
 在这种情况，我们可以添加一个全局规则，将所有的 TCP+UDP 流量进行处理。
 
-![](https://img.niconode.co/20190515181609898525IlnLehoUV6PeB5.jpg)
+![](https://img.niconode.xyz/20190515181609898525IlnLehoUV6PeB5.jpg)
 
 参考图片中的值进行填写。
 

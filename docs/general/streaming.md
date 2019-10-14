@@ -1,6 +1,6 @@
 > 该文档最后更新日期: 2019-03-28
 
-![Streaming](https://img.niconode.co/2019032803564760705OEf1tWxfnMwu2VX.jpg)
+![Streaming](https://img.niconode.xyz/2019032803564760705OEf1tWxfnMwu2VX.jpg)
 
 ### 可供解锁的流媒体
 
@@ -34,12 +34,12 @@
 
 - 如果您在电脑上打开您的订阅，您会看到下图：
 
-	![PC](https://img.niconode.co/2019032804052163695QCfpEfsKrz1MCsE.png)
+	![PC](https://img.niconode.xyz/2019032804052163695QCfpEfsKrz1MCsE.png)
 
 	> 在每个线路的右侧 `影音支援` 下您可以看到不同流媒体的LOGO，如果您所需要解锁的流媒体站点LOGO出现在此，则说明该线路可以满足您的需求。
 
 - 如果您在手机/平板电脑上打开您的订阅，您会看到下图：
 
-	![Mobile](https://img.niconode.co/2019032804070822232w8dTv7BlXaul5dL.png)
+	![Mobile](https://img.niconode.xyz/2019032804070822232w8dTv7BlXaul5dL.png)
 	
 	> 在每个线路的中文名称下，您可以看到不同流媒体的LOGO，如果您所需要解锁的流媒体站点LOGO出现在此，则说明该线路可以满足您的需求。

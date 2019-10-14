@@ -12,7 +12,7 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 版本:2.24 | 更新日期: 2019-03-12
 
-[立即下载](https://dl.niconode.co/client/v2rayN-Core.zip) | [GitHub下载](https://github.com/2dust/v2rayN/releases/download/2.24/v2rayN-Core.zip)
+[立即下载](https://dl.niconode.xyz/client/v2rayN-Core.zip) | [GitHub下载](https://github.com/2dust/v2rayN/releases/download/2.24/v2rayN-Core.zip)
 
 ### 运行
 
@@ -20,29 +20,29 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 - 运行其中的 `V2RayN.exe`
 
-	![](https://img.niconode.co/201811070101556923836wVLpgYyFoipZ4.jpg)
+	![](https://img.niconode.xyz/201811070101556923836wVLpgYyFoipZ4.jpg)
 
 ### 配置订阅
 
 1. 打开您的订阅，选择 `客户端订阅`。找到以 `(API v3.0)` 开始的行列，点击最右边的链接复制。
 
-	![配置文件](https://img.niconode.co/2019032708355416032uJiiVv5gK5MB3BV.png)
+	![配置文件](https://img.niconode.xyz/2019032708355416032uJiiVv5gK5MB3BV.png)
 
 2. 打开 V2RayN 客户端，选择 `订阅` 中的 `订阅设置` 。
 
-	![设置订阅地址](https://img.niconode.co/2018120914441597551nmu31FjVvLeAQ9s.png)
+	![设置订阅地址](https://img.niconode.xyz/2018120914441597551nmu31FjVvLeAQ9s.png)
 
 3. 在 `地址(url)` 中粘贴 `V2Ray 兼容订阅列表` 的链接地址，并 `确认`。
 
 4. 选择 `订阅` 中的 `更新订阅`。
 
-	![更新订阅](https://img.niconode.co/2018120914450168769ULsZ2NUFfCjE6dK.png "更新订阅")
+	![更新订阅](https://img.niconode.xyz/2018120914450168769ULsZ2NUFfCjE6dK.png "更新订阅")
 
 ### 选择服务器
 
 - 右键系统右下角托盘中的 V2RayN 客户端的图标。
 
-	![](https://img.niconode.co/2018110701084675813RDxZW7X5qeRDB8x.jpg)
+	![](https://img.niconode.xyz/2018110701084675813RDxZW7X5qeRDB8x.jpg)
 	
 ### 启动系统代理
 
@@ -58,13 +58,13 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 如果您只是用于网页浏览，您可以配置到Chrome浏览器中，更智能以及高效率的处理。
 
-> 您需要现在下载这个拓展，[点击下载](https://dl.niconode.co/extensions/SwitchyOmega.crx) 或 [GitHub下载](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.3.21/SwitchyOmega.crx)
+> 您需要现在下载这个拓展，[点击下载](https://dl.niconode.xyz/extensions/SwitchyOmega.crx) 或 [GitHub下载](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.3.21/SwitchyOmega.crx)
 
 - 开启开发者模式
 
 - 在您的 Chrome 浏览器中访问 `chrome://extensions/`
 	
-	![img](https://img.niconode.co/2017022623273770747VNtwGa8iM3BLEj5.png)
+	![img](https://img.niconode.xyz/2017022623273770747VNtwGa8iM3BLEj5.png)
 
 - 勾选`开发者模式`
 
@@ -72,7 +72,7 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 - 将刚才下载的`SwitchyOmega.crx`，直接拖动至浏览器窗口。
 
-	![alert](https://img.niconode.co/20170226232840445234N9g1XiHYxUBb4O.png)
+	![alert](https://img.niconode.xyz/20170226232840445234N9g1XiHYxUBb4O.png)
 
 - 选择`添加拓展程序`
 
@@ -82,7 +82,7 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 
 - 如下配置默认的情景模式。
 
-	![proxy](https://img.niconode.co/2017022623302525929gbGZc4ylFHjfIJN.png)
+	![proxy](https://img.niconode.xyz/2017022623302525929gbGZc4ylFHjfIJN.png)
 
 - 保存，这个时候您可以使用Chrome中的全局代理功能了。
 
@@ -94,11 +94,11 @@ V2RayN 是一个适用于V2Ray-Core的GUI视图化客户端。简单的说，您
 	3. 在`切换规则`中，将规则列表规则的情景模式选择为上面全局模式配置的默认情景模式proxy。
 	4. 选择`立即更新规则`进行更新规则。
 
-		![gfwlist](https://img.niconode.co/20170226233244355330Nv4HrUK53o5fDm.png)
+		![gfwlist](https://img.niconode.xyz/20170226233244355330Nv4HrUK53o5fDm.png)
 
 #### 启动浏览器拓展
 
-![enable](https://img.niconode.co/2017022623351645671j47gvgSiqA5tYvn.png)
+![enable](https://img.niconode.xyz/2017022623351645671j47gvgSiqA5tYvn.png)
 
 - `直接连接` - 不开启任何代理。
 - `系统代理` — 如果您希望启用SS客户端上的全局模式，可以直接使用此后再前往启用。
